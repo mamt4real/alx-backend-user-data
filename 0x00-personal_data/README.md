@@ -14,3 +14,15 @@ Resources
 ## Description
 How to obsecure user data, parse logs and more...
 
+## Tasks
+* [0-main.py](0-main.py)
+* [0-main.sql](0-main.sql)
+* [1-main.py](1-main.py)
+* [1-main.sql](1-main.sql)
+* [2-main.py](2-main.py)
+* [3-main.py](3-main.py)
+* [4-main.py](4-main.py)
+* [5-main.py](5-main.py)
+* [README.md](README.md)
+* [encrypt_password.py](encrypt_password.py)
+* [filtered_logger.py](filtered_logger.py)
