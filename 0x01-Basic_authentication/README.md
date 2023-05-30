@@ -14,3 +14,14 @@ Resources
 
 ## Description
 How to implement basic authentication
+## Tasks
+* [README.md](README.md)
+* [api](api)
+* [main_0.py](main_0.py)
+* [main_1.py](main_1.py)
+* [main_2.py](main_2.py)
+* [main_3.py](main_3.py)
+* [main_4.py](main_4.py)
+* [main_6.py](main_6.py)
+* [models](models)
+* [requirements.txt](requirements.txt)
