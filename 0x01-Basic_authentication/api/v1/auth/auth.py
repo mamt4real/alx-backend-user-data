@@ -30,7 +30,8 @@ class Auth:
             excluded_paths
         )
         for p in with_stars:
-            if p.startswith(path):
+            strip = p[:-1]
+            if path.startswith(strip):
                 return False
         return True
 
