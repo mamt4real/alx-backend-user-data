@@ -25,6 +25,13 @@ class Auth:
             check += "/"
         if check in excluded_paths or path in excluded_paths:
             return False
+        with_stars = filter(
+            lambda p: p.endswith("*"),
+            excluded_paths
+        )
+        for p in with_stars:
+            if p.startswith(path):
+                return False
         return True
 
     def authorization_header(self, request=None) -> str:
