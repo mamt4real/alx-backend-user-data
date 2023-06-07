@@ -1,0 +1,11 @@
+<p>
+<img width="260" height="170" src="https://www.flaticon.com/svg/static/icons/svg/627/627558.svg" align="right" >
+</p>
+
+#  0x08. User authentication service
+
+## Description
+- How to declare API routes in a Flask app
+- How to get and set cookies
+- How to retrieve request form data
+- How to return various HTTP status codes
